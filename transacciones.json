@@ -1,0 +1,34 @@
+[
+     {
+          "id" : 0,
+          "codigo" : "001", 
+          "tipo_cuenta" : "aho",
+          "numero_cuenta" : "020",
+          "tipotransaccion" : "deposito",     
+          "monto" : "500"
+     },
+     {
+          "id" : 1,
+          "codigo" : "002", 
+          "tipo_cuenta" : "aho",
+          "numero_cuenta" : "021",
+          "tipotransaccion" : "retiro",     
+          "monto" : "900"
+     },
+     {
+          "id" : 2,
+          "codigo" : "003", 
+          "tipo_cuenta" : "aho",
+          "numero_cuenta" : "022",
+          "tipotransaccion" : "transfer",     
+          "monto" : "1000"
+     },
+     {
+          "id" : 3,
+          "codigo" : "004", 
+          "tipo_cuenta" : "cred",
+          "numero_cuenta" : "023",
+          "tipotransaccion" : "pago",     
+          "monto" : "100"
+     }
+]
